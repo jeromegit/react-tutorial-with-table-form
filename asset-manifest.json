@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-with-table-form/static/css/main.b5d4e854.chunk.css",
+    "main.js": "/react-tutorial-with-table-form/static/js/main.b165c986.chunk.js",
+    "main.js.map": "/react-tutorial-with-table-form/static/js/main.b165c986.chunk.js.map",
+    "runtime~main.js": "/react-tutorial-with-table-form/static/js/runtime~main.2853d1ff.js",
+    "runtime~main.js.map": "/react-tutorial-with-table-form/static/js/runtime~main.2853d1ff.js.map",
+    "static/js/2.86a2265c.chunk.js": "/react-tutorial-with-table-form/static/js/2.86a2265c.chunk.js",
+    "static/js/2.86a2265c.chunk.js.map": "/react-tutorial-with-table-form/static/js/2.86a2265c.chunk.js.map",
+    "index.html": "/react-tutorial-with-table-form/index.html",
+    "precache-manifest.d26b0634b86e602a00ef196d017a5ea3.js": "/react-tutorial-with-table-form/precache-manifest.d26b0634b86e602a00ef196d017a5ea3.js",
+    "service-worker.js": "/react-tutorial-with-table-form/service-worker.js",
+    "static/css/main.b5d4e854.chunk.css.map": "/react-tutorial-with-table-form/static/css/main.b5d4e854.chunk.css.map"
+  }
+}
